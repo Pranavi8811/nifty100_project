@@ -1,0 +1,13 @@
+file,missing_values
+analysis_clean.csv,0
+balancesheet_clean.csv,0
+cashflow_clean.csv,8
+companies_clean.csv,9
+documents_clean.csv,52
+financial_ratios_clean.csv,169
+market_cap_clean.csv,0
+peer_groups_clean.csv,0
+profitandloss_clean.csv,231
+prosandcons_clean.csv,6
+sectors_clean.csv,0
+stock_prices_clean.csv,0
